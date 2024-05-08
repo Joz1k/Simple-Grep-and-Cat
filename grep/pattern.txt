@@ -1,0 +1,14 @@
+test
+CLEAN
+clean
+{
+}
+!
+(
+)
+manhunte
+^#include
+ls
+apple
+banana
+orange
